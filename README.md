@@ -1,3 +1,3 @@
 # jenkinsrepo
 
-##for windows replace the sh with bat
+## for windows replace the sh with bat
